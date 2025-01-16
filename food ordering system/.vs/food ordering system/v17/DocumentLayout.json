@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\admin\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\admin\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\admin\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\admin\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\templatefiles\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\templatefiles\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\templatefiles\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\templatefiles\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\assets\\js\\bootstrap-growl.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\assets\\js\\bootstrap-growl.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\admin\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|c:\\users\\mohamed azeem\\desktop\\.net project\\food ordering system\\food ordering system\\admin\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{14C5F58C-1BFA-4D1F-B751-8CB80744BB70}|food ordering system\\food ordering system.csproj|solutionrelative:food ordering system\\admin\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Cart.aspx.cs",
+              "RelativeToolTip": "food ordering system\\User\\Cart.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:45:49.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\TemplateFiles\\css\\style.css",
+              "RelativeDocumentMoniker": "food ordering system\\TemplateFiles\\css\\style.css",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\TemplateFiles\\css\\style.css",
+              "RelativeToolTip": "food ordering system\\TemplateFiles\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-03T20:37:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\User.Master",
+              "RelativeDocumentMoniker": "food ordering system\\User\\User.Master",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\User.Master",
+              "RelativeToolTip": "food ordering system\\User\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-02T15:54:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Cart.aspx",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Cart.aspx",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Cart.aspx",
+              "RelativeToolTip": "food ordering system\\User\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-02T15:44:18.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Connection.cs",
+              "RelativeDocumentMoniker": "food ordering system\\Connection.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Connection.cs",
+              "RelativeToolTip": "food ordering system\\Connection.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAhwFsAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:24:59.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\TemplateFiles\\js\\custom.js",
+              "RelativeDocumentMoniker": "food ordering system\\TemplateFiles\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\TemplateFiles\\js\\custom.js",
+              "RelativeToolTip": "food ordering system\\TemplateFiles\\js\\custom.js",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T00:40:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-growl.min.js",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\assets\\js\\bootstrap-growl.min.js",
+              "RelativeDocumentMoniker": "food ordering system\\assets\\js\\bootstrap-growl.min.js",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\assets\\js\\bootstrap-growl.min.js",
+              "RelativeToolTip": "food ordering system\\assets\\js\\bootstrap-growl.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T00:39:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Default.aspx.cs",
+              "RelativeToolTip": "food ordering system\\User\\Default.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T00:27:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Default.aspx",
+              "RelativeToolTip": "food ordering system\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-31T00:21:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Category.aspx.cs",
+              "RelativeDocumentMoniker": "food ordering system\\Admin\\Category.aspx.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Category.aspx.cs",
+              "RelativeToolTip": "food ordering system\\Admin\\Category.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:52:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Category.aspx",
+              "RelativeDocumentMoniker": "food ordering system\\Admin\\Category.aspx",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Category.aspx",
+              "RelativeToolTip": "food ordering system\\Admin\\Category.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T01:52:37.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Product.aspx.cs",
+              "RelativeDocumentMoniker": "food ordering system\\Admin\\Product.aspx.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Product.aspx.cs",
+              "RelativeToolTip": "food ordering system\\Admin\\Product.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:51:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Menu.aspx.cs",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Menu.aspx.cs",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Menu.aspx.cs",
+              "RelativeToolTip": "food ordering system\\User\\Menu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:50:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Product.aspx",
+              "RelativeDocumentMoniker": "food ordering system\\Admin\\Product.aspx",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\Admin\\Product.aspx",
+              "RelativeToolTip": "food ordering system\\Admin\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-27T01:40:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Menu.aspx",
+              "RelativeDocumentMoniker": "food ordering system\\User\\Menu.aspx",
+              "ToolTip": "C:\\Users\\Mohamed Azeem\\Desktop\\.Net project\\food ordering system\\food ordering system\\User\\Menu.aspx",
+              "RelativeToolTip": "food ordering system\\User\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T00:29:23.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
